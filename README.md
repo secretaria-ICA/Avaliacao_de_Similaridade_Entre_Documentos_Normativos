@@ -1,4 +1,4 @@
-# Avaliação de Similaridade Entre Documentos Normativos
+# Avaliação_de_Similaridade_Entre_Documentos_Normativos
 
 #### Aluno: [Alexandre Gomes Ferriera](https://github.com/alexgf).
 #### Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
